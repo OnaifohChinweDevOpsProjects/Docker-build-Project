@@ -10,21 +10,6 @@ This project builds a Docker image based on `tomcat:9.0`, deploying a `.war` app
 ├── context.xml
 └── tomcat-users.xml
 
-
----
-
-## 📦 Features
-
-- Deploys your `.war` file to Tomcat.
-- Enables `manager` and `host-manager` apps.
-- Bypasses security restrictions via `context.xml`.
-- Configures admin users and roles via `tomcat-users.xml`.
-
----
-
-
----
-
 ## 📦 Features
 
 - Deploys your `.war` file to Tomcat.
