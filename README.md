@@ -59,5 +59,9 @@ Host Manager: http://localhost:8080/host-manager/html
 💡 Make sure your tomcat-users.xml includes users with roles:
 manager-gui, admin-gui, etc.
 
-🙋‍♂️ Author Chinwe Ebube Onaifoh 📫 onaifohchinwe094@gmail.com 📞 +1 (437) 473-4649 📍 Ajax, Ontario, Canada
+🙋‍♂️ Author
+
+Chinwe Ebube Onaifoh 
+
+📫 onaifohchinwe094@gmail.com 📞 +1 (437) 473-4649 📍 Ajax, Ontario, Canada
 
